@@ -14,7 +14,7 @@
 ![집행검](https://static.inven.co.kr/image_2011/game/item/lineage/weapon/JipHaengSword.png)
 
 - **종류:** 무기
-- **주요효과:** 최상위 양손검, 매우 높은 데미지
+- **주요효과:** 최상위 양손검, 매우 높은 데미지, 흡협 +2
 - **데미지:** 30~33
 - **드랍률:** 극히 희귀 (제작/보스/이벤트)
 
